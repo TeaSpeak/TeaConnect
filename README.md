@@ -1,13 +1,13 @@
 # Attention:  
 This project is currently under review,  
-but coffee with pizza within a human generates miracles,  
+but coffee and pizza within a human generates miracles,  
 and soon there will be some progress!   
    
 # TeamSpeak 3 patcher 
-Welcome to the official TeamSpeak 3 patcher github repository 
+Welcome to the official TeaConnect github repository 
  
 ## What is this? 
-TeamSpeak 3 patcher is a TeamSpeak 3 plugin which allows you to disable the TeamSpeak 3 blacklist and allows you to join 3.1 cracked servers! 
+TeaConnect is a TeamSpeak 3 client addon which helps you to join TeaSpeak servers! 
  
 ## Platform compatibility 
  
