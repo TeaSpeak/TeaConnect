@@ -1,3 +1,8 @@
+# Attention:  
+This project is currently under review,  
+but coffee with pizza within a human generates miracles,  
+and soon there will be some progress!  
+  
 # TeamSpeak 3 patcher
 Welcome to the official TeamSpeak 3 patcher github repository
 
