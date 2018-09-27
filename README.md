@@ -1,9 +1,9 @@
 # Attention:  
 This project is currently under review,  
 but coffee and pizza within a human generates miracles,  
-and soon there will be some progress!   
+and soon there will be some great progress!   
    
-# TeamSpeak 3 patcher 
+# TeaConnect 
 Welcome to the official TeaConnect github repository 
  
 ## What is this? 
